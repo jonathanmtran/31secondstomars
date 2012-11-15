@@ -26,7 +26,7 @@ include 'header.php';
 				</div>
 				
 				<div id="rover" class="nivo-html-caption">
-					Source: <a href="http://en.wikipedia.org/wiki/Mars_Exploration_Rover" alt="">Wikipedia</a>
+					Source: <a href="http://en.wikipedia.org/wiki/File:NASA_Mars_Rover.jpg" alt="">wikimedia commons</a>
 				</div>
 				
 				<div id="mars_from_space-2" class="nivo-html-caption">
