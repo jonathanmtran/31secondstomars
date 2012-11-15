@@ -8,14 +8,14 @@ include 'header.php';
 			<a name="TemplateInfo"></a>
 			<h1>Activities</h1>
 			<div class="activities">
-				<a href="activities/life_on_mars_coloring_page.pdf">
+				<a href="activities/life_on_mars_coloring_page.pdf" target="_blank">
 					<img src="activities/life_on_mars_coloring_page.jpg" alt="life on mars coloring page" /><br />
 					Life on Mars
 				</a>
 			</div>
 			
 			<div class="activities">
-				<a href="activities/mars_word_search.pdf">
+				<a href="activities/mars_word_search.pdf"  target="_blank">
 					<img src="activities/mars_word_search.jpg" alt="mars word search" /><br />
 					Mars Word Search</a>
 			</div>
