@@ -1,13 +1,4 @@
-		<div id="sidebar" >
-
-			<div class="sidebox">
-				<h1>Stay Connected with NASA</h1>
-				<a href="http://www.facebook.com/NASA"><img src="images/facebook.png" alt="like NASA on facebook" style="padding: 0px; border: none; background: transparent;"/></a>
-				<a href="https://twitter.com/nasa"><img src="images/twitter.png" alt="follow NASA on twitter" style="padding: 0px; border: none; background: transparent;"/></a>
-			</div>
-
-		</div>
-		
+	<?php require 'sidebar.php'; ?>
 	
 	<!-- content-wrap ends here -->
 	</div></div>
