@@ -32,36 +32,23 @@
 	<div id="footer"><div id="footer-content">
 	
         <div class="col float-left space-sep">
-			<h2>Site Partners</h2>
+			<h2></h2>
 			<ul class="flist">
-                <li><a href="http://www.dreamtemplate.com" title="Website Templates">DreamTemplate</a></li>
-                <li><a href="http://www.themelayouts.com" title="WordPress Themes">ThemeLayouts</a></li>
-                <li><a href="http://www.imhosted.com" title="Website Hosting">ImHosted.com</a></li>
-                <li><a href="http://www.dreamstock.com" title="Stock Photos">DreamStock</a></li>
-                <li><a href="http://www.evrsoft.com" title="Website Builder">Evrsoft</a></li>
-                <li><a href="http://www.webhostingwp.com" title="Web Hosting">Web Hosting</a></li>
 			</ul>
 		</div>
 
 		<div class="col float-left">
-			<h2>Links</h2>
+			<h2></h2>
 			<ul class="flist">
-                <li><a href="index.html">Link One</a></li>
-				<li><a href="index.html">Link Two</a></li>
-				<li><a href="index.html">Link Three</a></li>
-				<li><a href="index.html">Link Four</a></li>
-				<li><a href="index.html">Link Five</a></li>
-                <li><a href="index.html">Link Six</a></li>
 			</ul>
 		</div>
 
 		<div class="col2 float-right">
             <h2>Site Links</h2>
 			<ul class="flist">
-				<li class="top"><a href="index.html">Home</a></li>
-                <li><a href="index.html">About</a></li>
-				<li><a href="index.html">Sitemap</a></li>
-				<li><a href="index.html">RSS Feed</a></li>
+				<li class="top"><a href="index.php">Home</a></li>
+                <li><a href="#">About</a></li>
+				<li><a href="privacy_policy.php">Privacy Policy</a></li>
 			</ul>
 
             <p>
