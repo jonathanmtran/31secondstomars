@@ -19,6 +19,7 @@ include 'header.php';
 					<img src="images/mars_from_space.jpg" alt="" title="#mars_from_space" />
 					<img src="images/rover.jpg" alt="" title="#rover" />
 					<img src="images/mars_from_space-2.jpg" alt="" title="#mars_from_space-2" />
+					<img src="images/rover-curiosity-1.jpg" alt="" title="#rover-curiosity-1" />
 				</div>
 				<div id="mars_from_space" class="nivo-html-caption">
 					Source: <a href="http://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html" alt="">space.com</a>
@@ -30,6 +31,10 @@ include 'header.php';
 				
 				<div id="mars_from_space-2" class="nivo-html-caption">
 					Source: <a href="http://www.guardian.co.uk/science/across-the-universe/2012/aug/05/curiosity-rover-nasa-life-mars" alt="">the guardian</a>
+				</div>
+				
+				<div id="rover-curiosity-1" class="nivo-html-caption">
+					Source: <a href="http://en.wikipedia.org/wiki/File:PIA15279_3rovers-stand_D2011_1215_D521-crop2-CuriosityRover.jpg" alt="">wikimedia commons</a>
 				</div>
 			</div>
 			
