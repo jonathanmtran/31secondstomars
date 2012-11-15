@@ -7,21 +7,19 @@ include 'header.php';
 		
 			<a name="TemplateInfo"></a>
 			<h1>Activities</h1>
-			<p>
-				<ul>
-					<li>
-						Life on Mars<br />
-						<a href="activities/life_on_mars_coloring_page.pdf">life_on_mars_coloring_page.pdf</a>
-					</li>
-				</ul>
-				<ul>
-					<li>
-						Mars Word Search<br />
-						<a href="activities/mars_word_search.pdf">mars_word_search.pdf</a>
-					</li>
-				</ul>
-			</p>
+			<div class="activities">
+				<a href="activities/life_on_mars_coloring_page.pdf">
+					<img src="activities/life_on_mars_coloring_page.jpg" alt="life on mars coloring page" /><br />
+					Life on Mars
+				</a>
+			</div>
 			
+			<div class="activities">
+				<a href="activities/mars_word_search.pdf">
+					<img src="activities/mars_word_search.jpg" alt="mars word search" /><br />
+					Mars Word Search</a>
+			</div>
+			<br style="clear: both;" />
 			<p>
 				Some activities are delievered as PDF files. To open PDF files, you need Adobe Reader<br />
 				<a href="http://www.adobe.com/products/reader.html" target="_blank" /><img src="images/get_adobe_reader.gif" style="padding: 0px;" alt="" /></a>
