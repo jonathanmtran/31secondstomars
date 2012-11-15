@@ -1,4 +1,4 @@
-        <div id="sidebar" >
+		<div id="sidebar" >
 
 			<div class="sidebox">
 				<h1>Stay Connected with NASA</h1>
@@ -6,26 +6,10 @@
 				<a href="https://twitter.com/nasa"><img src="images/twitter.png" alt="follow NASA on twitter" style="padding: 0px; border: none; background: transparent;"/></a>
 			</div>
 
-			<div class="sidebox">
-				<h1>Wise Words</h1>
-
-				<p>&quot;Our life is what our thoughts make it.&quot;</p>
-
-				<p class="align-right">- Marcus Aurelius</p>
-			</div>
-
-			<div class="sidebox">
-				<h1>Support Styleshout</h1>
-				<p>If you are interested in supporting my work and would like to contribute, you are
-				welcome to make a small donation through the
-				<a href="http://www.styleshout.com/">donate link</a> on my website - it will
-				be a great help and will surely be appreciated.</p>
-			</div>
-
 		</div>
 		
 	
-	<!-- content-wrap ends here -->		
+	<!-- content-wrap ends here -->
 	</div></div>
 
 	<!-- footer starts here -->	
