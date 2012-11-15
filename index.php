@@ -33,8 +33,19 @@ include 'header.php';
 				</div>
 			</div>
 			
-			<h1>31 Seconds to Mars</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut quam et lectus accumsan ultrices quis vitae est. Curabitur ipsum neque, consequat eget dapibus in, vulputate ut risus. Sed non nisl eu magna tincidunt eleifend. Fusce tempus lacinia nibh, ut cursus tortor venenatis nec. Aliquam augue ante, malesuada quis molestie scelerisque, venenatis eget nisi. Curabitur vulputate arcu pharetra magna faucibus id iaculis sapien lobortis. Nunc mattis mollis velit, et aliquet dolor dictum id. Etiam et nulla lectus, sit amet consequat purus. Duis vel erat tellus. Aenean non tortor nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis pellentesque semper massa quis dapibus. Fusce consequat porttitor accumsan. Donec augue est, ultricies id laoreet vel, ultricies et libero.</p>
+			<h1>About Us</h1>
+			<p>31 Seconds to Mars is a research website that provides support services to the community in helping enrich the minds of today. Also we conduct planetary science research under the leaderships of our many staff and scientists, our Mars visiting researchers on finding new data specifically in our, our Mars visiting researchers on finding new data specifically in our 5th planet in the orbit.</p>
+			
+			<p style="text-align: center">
+				<img src="images/mars_1.jpg" />
+				<img src="images/rover_1.jpg" />
+				<img src="images/mars_2.jpg" />
+			</p>
+			
+			<p>31 Seconds to Mars was described by the University Space Research Association "a center of research and learning where the any adult, young adult and child can benefit from all the variety of knowledge of the planet and the universe itself". The research website serves in three main purposes:</p>
+			<p><strong>Research Science:</strong> The Website is the center for all the science studies of Mars, conducting research studies on the formation and evolution of the planet, along with a whole through analysis of data and samples obtained by NASA's long history of missions and exploration.</p>
+			<p><strong>Service to the Whole Community:</strong> The website coordinates a lot of activities such as meetings on lunar and planetary events to learn about all kinds of interesting facts about Mars. Including an abstract database of more than 1,000 presentations and picture media provided by us thanks to the NASA space center.</p>
+			<p><strong>Education and Child Outreach:</strong> The website develops education and outreach to all children to engage in various programs and fun activities that involve having fun while learning about the incredible planet Mars.</p>
 			
 		</div>
 
