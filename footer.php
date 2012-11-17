@@ -18,8 +18,12 @@
 		</div>
 
 		<div class="col float-left">
-			<h2></h2>
+			<h2>Credits</h2>
 			<ul class="flist">
+				<li><a href="http://www.nasa.gov/">NASA</a></li>
+				<li><a href="http://space.com">space.com</a></li>
+				<li><a href="http://www.guardian.co.uk">the guardian</a></li>
+				<li><a href="http://commons.wikimedia.org">wikimedia commons</a></li>
 			</ul>
 		</div>
 
