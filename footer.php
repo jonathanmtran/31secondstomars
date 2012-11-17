@@ -7,8 +7,13 @@
 	<div id="footer"><div id="footer-content">
 	
         <div class="col float-left space-sep">
-			<h2></h2>
+			<h2>31 Seconds to Mars Team</h2>
 			<ul class="flist">
+				<li>Lindsey Medici</li>
+				<li>Gustavo Cortez</li>
+				<li>Chris Huynh</li>
+				<li>Jorge Rocha</li>
+				<li>Jonathan Tran</li>
 			</ul>
 		</div>
 
