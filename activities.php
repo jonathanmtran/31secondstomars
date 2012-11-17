@@ -8,6 +8,13 @@ include 'header.php';
 			<a name="TemplateInfo"></a>
 			<h1>Activities</h1>
 			<div class="activities">
+				<a href="activities/astronaut_coloring_page.pdf" target="_blank">
+					<img src="activities/astronaut_coloring_page.jpg" alt="astronaut coloring page" /><br />
+					Astronaut
+				</a>
+			</div>
+			
+			<div class="activities">
 				<a href="activities/life_on_mars_coloring_page.pdf" target="_blank">
 					<img src="activities/life_on_mars_coloring_page.jpg" alt="life on mars coloring page" /><br />
 					Life on Mars
