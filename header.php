@@ -39,7 +39,7 @@
 
 	<!-- header starts here -->
 	<div id="header"><div id="header-content">
-		<img src="images/logo.png" style="background-color: transparent; border: 0px; padding: 0px;" alt="logo" />
+		<a href="index.php"><img src="images/logo.png" style="background-color: transparent; border: 0px; padding: 0px;" alt="logo" /></a>
 		<h1 id="logo">31 Seconds to Mars</h1>
 		<h2 id="slogan">who said the sky was the limit?</h2>
 		
