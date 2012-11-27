@@ -32,7 +32,7 @@ include 'header.php';
 			
 			<h2>Geography</h2>
 			<ul>
-				<li>The bright rust color Mars is known for is due to to iron-rich minerals in its regolith — the loose dust and rock covering its surface. The soil of Earth is a kind of regolith, albeit one loaded with organic content.</li>
+				<li>The bright rust color Mars is known for is due to to iron-rich minerals in its regolith - the loose dust and rock covering its surface. The soil of Earth is a kind of regolith, albeit one loaded with organic content.</li>
 				<li>The cold, thin atmosphere means liquid water currently cannot exist on the Martian surface for any length of time. This means that although this desert planet is just half the diameter of Earth, they have the same amount of dry land.</li>
 				<li>Channels, valleys, and gullies are found all over Mars, and suggest that liquid water might have flowed across the planet's surface in recent times. Some channels can be 60 miles (100 kilometers) wide and 1,200 miles (2,000 kilometers) long. Water may still lie in cracks and pores in underground rock.</li>
 			</ul>
