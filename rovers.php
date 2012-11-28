@@ -18,7 +18,7 @@ include 'header.php';
 			<h2>Curiosity</h2>
 			<p><em>Note: We are still compiling information about the latest rover and will update as information is made available</em></p>
 			<ul>
-				<li>Launch vehhicle: United Launch Alliance Atlas V</li>
+				<li>Launch vehicle: United Launch Alliance Atlas V</li>
 				<li>Launch: November 26, 2011</li>
 			</ul>
 			
