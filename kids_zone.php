@@ -22,11 +22,21 @@ include 'header.php';
 			</div>
 			
 			<div class="activities">
+				<a href="activities/mars_crossword_puzzle.pdf"  target="_blank">
+					<img src="activities/mars_crossword_puzzle.jpg" alt="mars crossword puzzle" /><br />
+					Mars Crossword Puzzle
+				</a><br />
+				<a href="activities/mars_crossword_puzzle-answers.pdf" target="_blank">(answers)</a>
+			</div>
+			
+			<div class="activities">
 				<a href="activities/mars_word_search.pdf"  target="_blank">
 					<img src="activities/mars_word_search.jpg" alt="mars word search" /><br />
 					Mars Word Search</a>
 			</div>
+			
 			<br style="clear: both;" />
+			
 			<p>
 				Some activities are delievered as PDF files. To open PDF files, you need Adobe Reader<br />
 				<a href="http://www.adobe.com/products/reader.html" target="_blank" /><img src="images/get_adobe_reader.gif" style="padding: 0px;" alt="" /></a>
