@@ -15,7 +15,22 @@ include 'header.php';
 				<li>Science instruments: Panoramic cameras, miniature thermal emission spectrometer, M&ouml;ssbauer spectrometer, alpha particle X-ray spectrometer, microscopic imager, rock abrasion tool, magnet arrays</li>
 			</ul>
 
-			<h2>Spirit Mission</h2>
+			<h2>Curiosity</h2>
+			<em>Note: We are still compiling information about the latest rover and will update as information is made available</em><br />
+			<ul>
+				<li>Launch vehhicle: United Launch Alliance Atlas V</li>
+				<li>Launch: November 26, 2011</li>
+			</ul>
+			
+			<h2>Opportunity</h2>
+			<ul>
+				<li>Launch vehicle: Delta II 7925H (larger solid-fuel boosters than 7925)</li>
+				<li>Launch: July 7, 2003, from Cape Canaveral Air Force Station, Fla.</li>
+				<li>Earth-Mars distance at launch: 78 million kilometers (48 million miles)</li>
+				<li>Mars landing: Jan. 25, 2004, at about 1:15 p.m. local Mars time (signal received at Earth 9:05 p.m. PST Jan. 24)</li>
+			</ul>
+
+			<h2>Spirit</h2>
 			<ul>
 				<li>Launch vehicle: Delta II 7925</li>
 				<li>Launch: June 10, 2003, from Cape Canaveral Air Force Station, Fla.</li>
@@ -27,14 +42,6 @@ include 'header.php';
 				<li>Total distance traveled Earth to Mars (approximate): 487 million kilometers (303 million miles)</li>
 				<li>Near-surface atmospheric temperature at landing site: -100 C (-148 F) to 0 C (32 F)</li>
 				<li>Primary mission: 90 Mars days, or "sols" (equivalent to 92 Earth days)</li>
-			</ul>
-
-			<h2>Opportunity Mission</h2>
-			<ul>
-				<li>Launch vehicle: Delta II 7925H (larger solid-fuel boosters than 7925)</li>
-				<li>Launch: July 7, 2003, from Cape Canaveral Air Force Station, Fla.</li>
-				<li>Earth-Mars distance at launch: 78 million kilometers (48 million miles)</li>
-				<li>Mars landing: Jan. 25, 2004, at about 1:15 p.m. local Mars time (signal received at Earth 9:05 p.m. PST Jan. 24)</li>
 			</ul>
 
 		</div>
