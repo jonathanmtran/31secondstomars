@@ -22,15 +22,15 @@ include 'header.php';
 					<img src="images/rover-curiosity-1.jpg" alt="" title="#rover-curiosity-1" />
 				</div>
 				<div id="mars_from_space" class="nivo-html-caption">
-					Source: <a href="http://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html" alt="">space.com</a>
+					Source: <a href="http://www.space.com/47-mars-the-red-planet-fourth-planet-from-the-sun.html">space.com</a>
 				</div>
 				
 				<div id="rover" class="nivo-html-caption">
-					Source: <a href="http://en.wikipedia.org/wiki/File:NASA_Mars_Rover.jpg" alt="">wikimedia commons</a>
+					Source: <a href="http://en.wikipedia.org/wiki/File:NASA_Mars_Rover.jpg">wikimedia commons</a>
 				</div>
 				
 				<div id="mars_from_space-2" class="nivo-html-caption">
-					Source: <a href="http://www.guardian.co.uk/science/across-the-universe/2012/aug/05/curiosity-rover-nasa-life-mars" alt="">the guardian</a>
+					Source: <a href="http://www.guardian.co.uk/science/across-the-universe/2012/aug/05/curiosity-rover-nasa-life-mars">the guardian</a>
 				</div>
 				
 				<div id="rover-curiosity-1" class="nivo-html-caption">
