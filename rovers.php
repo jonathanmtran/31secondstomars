@@ -16,7 +16,7 @@ include 'header.php';
 			</ul>
 
 			<h2>Curiosity</h2>
-			<em>Note: We are still compiling information about the latest rover and will update as information is made available</em><br />
+			<p><em>Note: We are still compiling information about the latest rover and will update as information is made available</em></p>
 			<ul>
 				<li>Launch vehhicle: United Launch Alliance Atlas V</li>
 				<li>Launch: November 26, 2011</li>
