@@ -10,7 +10,7 @@ include 'header.php';
 			<h2>Interesting Facts</h2>
 			<p>Mars is named after the ancient Roman god of war, as befitting the red planet's bloody color. The Romans copied the ancient Greeks, who named the fourth planet from the sun after their god of war, Ares.</p>
 			
-			<h2>Planet mass, diameter and orbit:</h2>
+			<h2>Planet mass, diameter and orbit</h2>
 			<ul>
 				<li>Orbit:227,940,00 km from the sun</li>
 				<li>Diameter:6,794 km</li>
