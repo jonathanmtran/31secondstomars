@@ -49,7 +49,8 @@
 				'index' => array('index.php', 'Home'),
 				'events' => array('events.php', 'Events'),
 				'information' => array('information.php', 'Information'),
-				'activities' => array('activities.php', 'Activities'),
+				'rovers' => array('rovers.php', 'Rovers'),
+				'kids_zone' => array('kids_zone.php', 'Kids Zone'),
 				'contact' => array('contact.php', 'Contact'),
 			);
 		?>

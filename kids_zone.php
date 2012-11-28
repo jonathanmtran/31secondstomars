@@ -1,12 +1,12 @@
 <?php
-$page = 'activities';
+$page = 'kids_zone';
 include 'header.php';
 ?>
 
 		<div id="main">
 		
 			<a name="TemplateInfo"></a>
-			<h1>Activities</h1>
+			<h1>Kids Zone</h1>
 			<div class="activities">
 				<a href="activities/astronaut_coloring_page.pdf" target="_blank">
 					<img src="activities/astronaut_coloring_page.jpg" alt="astronaut coloring page" /><br />
