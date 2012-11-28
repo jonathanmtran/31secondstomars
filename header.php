@@ -50,6 +50,7 @@
 				'events' => array('events.php', 'Events'),
 				'information' => array('information.php', 'Information'),
 				'rovers' => array('rovers.php', 'Rovers'),
+				'activities' => array('activities.php', 'Activities'),
 				'kids_zone' => array('kids_zone.php', 'Kids Zone'),
 				'contact' => array('contact.php', 'Contact'),
 			);
