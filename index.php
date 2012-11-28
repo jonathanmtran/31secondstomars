@@ -42,9 +42,9 @@ include 'header.php';
 			<p>31 Seconds to Mars is a research website that provides support services to the community in helping enrich the minds of today. Also we conduct planetary science research under the leaderships of our many staff and scientists, our Mars visiting researchers on finding new data specifically in our, our Mars visiting researchers on finding new data specifically in our 5th planet in the orbit.</p>
 			
 			<p style="text-align: center">
-				<img src="images/mars_1.jpg" />
-				<img src="images/rover_1.jpg" />
-				<img src="images/mars_2.jpg" />
+				<img src="images/mars_1.jpg" alt="mars 1" />
+				<img src="images/rover_1.jpg" alt="rover 1" />
+				<img src="images/mars_2.jpg" alt="mars 2" />
 			</p>
 			
 			<p>31 Seconds to Mars was described by the University Space Research Association "a center of research and learning where the any adult, young adult and child can benefit from all the variety of knowledge of the planet and the universe itself". The research website serves in three main purposes:</p>
