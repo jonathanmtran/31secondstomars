@@ -34,7 +34,7 @@ include 'header.php';
 				</div>
 				
 				<div id="rover-curiosity-1" class="nivo-html-caption">
-					Source: <a href="http://en.wikipedia.org/wiki/File:PIA15279_3rovers-stand_D2011_1215_D521-crop2-CuriosityRover.jpg" alt="">wikimedia commons</a>
+					Source: <a href="http://en.wikipedia.org/wiki/File:PIA15279_3rovers-stand_D2011_1215_D521-crop2-CuriosityRover.jpg">wikimedia commons</a>
 				</div>
 			</div>
 			
