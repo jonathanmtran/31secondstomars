@@ -1,5 +1,5 @@
 <?php
-$page = 'information';
+$page = 'rovers';
 include 'header.php';
 ?>
 		<div id="main">
