@@ -4,7 +4,7 @@ include 'header.php';
 ?>
 		<div id="main">
 			
-			<h1 id="top">Mars Exploration Rovers</h1>
+			<h1 id="title">Mars Exploration Rovers</h1>
 			<p style="text-align: center">
 				<a href="#spacecraft">Spacecraft</a> | <a href="#curiosity">Curiosity</a> | <a href="#opportunity">Opportunity</a> | <a href="#spirit">Spirit</a>
 			</p>
@@ -16,7 +16,7 @@ include 'header.php';
 				<li>Power: Solar panel and lithium-ion battery system providing 140 watts on Mars surface<br />&nbsp;</li>
 				<li>Science instruments: Panoramic cameras, miniature thermal emission spectrometer, M&ouml;ssbauer spectrometer, alpha particle X-ray spectrometer, microscopic imager, rock abrasion tool, magnet arrays<br />&nbsp;</li>
 			</ul>
-			<p style="text-align: right"><a href="#top">back to top</a></p>
+			<p style="text-align: right"><a href="#title">back to top</a></p>
 
 			<h2 id="curiosity">Curiosity</h2>
 			<p><em>Note: We are still compiling information about the latest rover and will update as information is made available</em></p>
@@ -32,7 +32,7 @@ include 'header.php';
 				<li>Earth-Mars distance at launch: 78 million kilometers (48 million miles)<br />&nbsp;</li>
 				<li>Mars landing: Jan. 25, 2004, at about 1:15 p.m. local Mars time (signal received at Earth 9:05 p.m. PST Jan. 24)<br />&nbsp;</li>
 			</ul>
-			<p style="text-align: right"><a href="#top">back to top</a></p>
+			<p style="text-align: right"><a href="#title">back to top</a></p>
 
 			<h2 id="spirit">Spirit</h2>
 			<ul>
@@ -47,7 +47,7 @@ include 'header.php';
 				<li>Near-surface atmospheric temperature at landing site: -100 C (-148 F) to 0 C (32 F)<br />&nbsp;</li>
 				<li>Primary mission: 90 Mars days, or "sols" (equivalent to 92 Earth days)<br />&nbsp;</li>
 			</ul>
-			<p style="text-align: right"><a href="#top">back to top</a></p>
+			<p style="text-align: right"><a href="#title">back to top</a></p>
 
 		</div>
 
