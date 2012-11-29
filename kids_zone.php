@@ -8,38 +8,38 @@ include 'header.php';
 			<a name="TemplateInfo"></a>
 			<h1>Kids Zone</h1>
 			<div class="activities">
-				<a href="activities/astronaut_coloring_page.pdf" target="_blank">
+				<a href="activities/astronaut_coloring_page.pdf">
 					<img src="activities/astronaut_coloring_page.jpg" alt="astronaut coloring page" /><br />
 					Astronaut
 				</a>
 			</div>
 			
 			<div class="activities">
-				<a href="activities/life_on_mars_coloring_page.pdf" target="_blank">
+				<a href="activities/life_on_mars_coloring_page.pdf">
 					<img src="activities/life_on_mars_coloring_page.jpg" alt="life on mars coloring page" /><br />
 					Life on Mars
 				</a>
 			</div>
 			
 			<div class="activities">
-				<a href="activities/mars_crossword_puzzle.pdf"  target="_blank">
+				<a href="activities/mars_crossword_puzzle.pdf">
 					<img src="activities/mars_crossword_puzzle.jpg" alt="mars crossword puzzle" /><br />
 					Mars Crossword Puzzle
 				</a><br />
-				<a href="activities/mars_crossword_puzzle-answers.pdf" target="_blank">(answers)</a>
+				<a href="activities/mars_crossword_puzzle-answers.pdf">(answers)</a>
 			</div>
 			
 			<div class="activities">
-				<a href="activities/mars_word_search.pdf"  target="_blank">
+				<a href="activities/mars_word_search.pdf">
 					<img src="activities/mars_word_search.jpg" alt="mars word search" /><br />
 					Mars Word Search</a>
 			</div>
 			
-			<br style="clear: both;" />
+			<br />
 			
 			<p>
 				Some activities are delievered as PDF files. To open PDF files, you need Adobe Reader<br />
-				<a href="http://www.adobe.com/products/reader.html" target="_blank" /><img src="images/get_adobe_reader.gif" style="padding: 0px;" alt="" /></a>
+				<a href="http://www.adobe.com/products/reader.html"><img src="images/get_adobe_reader.gif" style="padding: 0px;" alt="" /></a>
 			</p>
 		</div>
 

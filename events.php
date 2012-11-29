@@ -13,7 +13,7 @@ include 'header.php';
 					<a href="http://www.time.com/time/specials/packages/article/0,28804,2128881_2128882_2129215,00.html">Vote The Mars Rover as TIME's person of the year 2012</a>
 				</p>
 			</fieldset>
-			<br clear="both" />
+			<br />
 			
 			<fieldset>
 				<legend>December 21, 2012</legend>

@@ -7,14 +7,14 @@ include 'header.php';
 			
 			<h1 id="title">Information</h1>
 			<p style="text-align: center">
-				<a href="#facts">Interesting Facts</a> | <a href="#mdo">Planet mass, diameter and orbit</a> | <a href="#temperature">Temperature</a> | <a href="#exploration">Exploration</a> | <a href="#geography">Geography</a> | <a href="#cs">Composition & Structure</a> | <a href="#terrain">Terrain</a>
+				<a href="#facts">Interesting Facts</a> | <a href="#mdo">Planet Mass, Diameter and orbit</a> | <a href="#temperature">Temperature</a> | <a href="#exploration">Exploration</a> | <a href="#geography">Geography</a> | <a href="#cs">Composition and Structure</a> | <a href="#terrain">Terrain</a>
 			</p>
 			
 			<h2 id="facts">Interesting Facts</h2>
 			<p>Mars is named after the ancient Roman god of war, as befitting the red planet's bloody color. The Romans copied the ancient Greeks, who named the fourth planet from the sun after their god of war, Ares.</p>
 			<p style="text-align: right"><a href="#title">back to top</a></p>
 			
-			<h2 id="mdo">Planet mass, diameter and orbit</h2>
+			<h2 id="mdo">Planet Mass, Diameter and Orbit</h2>
 			<ul>
 				<li>Orbit:227,940,00 km from the sun<br />&nbsp;</li>
 				<li>Diameter:6,794 km<br />&nbsp;</li>
@@ -45,7 +45,7 @@ include 'header.php';
 			</ul>
 			<p style="text-align: right"><a href="#title">back to top</a></p>
 			
-			<h2 id="cs">Composition & Structure</h2>
+			<h2 id="cs">Composition and Structure</h2>
 			<ul>
 				<li><strong>Atmospheric composition (by volume)</strong><br />
 					95.32 percent carbon dioxide, 2.7 percent nitrogen, 1.6 percent argon, 0.13 percent oxygen, 0.08 percent carbon monoxide, minor amounts of water, nitrogen oxide, neon, hydrogen-deuterium-oxygen, krypton, xenon<br />&nbsp;</li>
@@ -59,7 +59,7 @@ include 'header.php';
 			<p style="text-align: right"><a href="#title">back to top</a></p>
 			
 			<h2 id="terrain">Terrain</h2>
-			<p>Mars has 4 very interesting terrestrial sites on its terrain.<br />
+			<p>Mars has 4 very interesting terrestrial sites on its terrain.</p>
 			<ul>
 				<li>Olympus Mons: the largest mountain in the Solar System rising 24 km (78,000 ft.) above the surrounding plain. Its base is more than 500 km in diameter and is rimmed by a cliff 6 km (20,000 ft) high.<br />&nbsp;</li>
 				<li>Tharsis: a huge bulge on the Martian surface that is about 4000 km across and 10 km high.<br />&nbsp;</li>
