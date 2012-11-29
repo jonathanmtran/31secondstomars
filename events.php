@@ -16,6 +16,37 @@ include 'header.php';
 			<br />
 			
 			<fieldset>
+				<legend>Saturday, December 8, 2012</legend>
+				<h2>Come to the NASA Launch of the new satellite to mars!</h2>
+				<p style="text-align: center">
+					<img src="images/launch_party.jpg"> 
+				</p>
+				<p>
+					Come and join us for the launch of the new nano satellite and enjoy many activities while waiting for the launch. Enjoy a variety of foods and get to know the team that built this nano satellite!<br />
+					<br />
+					<strong>Where:</strong> NASA Discovery Center<br />
+					<strong>Time:</strong> 10:00am - 5:00pm
+				</p>
+			</fieldset>
+			<br />
+			
+			<fieldset>
+				<legend>Saturday, December 15, 2012</legend>
+				<h2>Come to the NASA Launch of the new satellite to mars!</h2>
+				<p style="text-align: center">
+					<img src="images/kids_to_mars-2.png" />
+					<img src="images/kids_to_mars.jpg" />
+				</p>
+				<p>
+					Would all you talented intelligent kids like to travel far beyond space to an adventurous journey to Mars? Come and join us at our 5th annual Kids Mission To Mars!! Come and discover everything you want to know about Mars. Free Lunch from 12:00pm -1:00pm! There will be prices and lots of fun activities for you! Hope to see you all eager little Astronauts!<br />
+					<br />
+					<strong>Where:</strong> Science Discovery Center For Kids<br />
+					<strong>Time:</strong> 10:00am - 9:00pm
+				</p>
+			</fieldset>
+			<br />
+			
+			<fieldset>
 				<legend>December 21, 2012</legend>
 				<h2>Martian Takeover?</h2>
 				<p>... or kaboom?</p>
