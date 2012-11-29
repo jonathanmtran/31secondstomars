@@ -35,7 +35,7 @@ include 'header.php';
 					Mars Word Search</a>
 			</div>
 			
-			<br />
+			<br style="clear: both" />
 			
 			<p>
 				Some activities are delievered as PDF files. To open PDF files, you need Adobe Reader<br />

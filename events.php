@@ -19,7 +19,7 @@ include 'header.php';
 				<legend>Saturday, December 8, 2012</legend>
 				<h2>Come to the NASA Launch of the new satellite to mars!</h2>
 				<p style="text-align: center">
-					<img src="images/launch_party.jpg"> 
+					<img src="images/launch_party.jpg" alt="launch party" /> 
 				</p>
 				<p>
 					Come and join us for the launch of the new nano satellite and enjoy many activities while waiting for the launch. Enjoy a variety of foods and get to know the team that built this nano satellite!<br />
@@ -34,8 +34,8 @@ include 'header.php';
 				<legend>Saturday, December 15, 2012</legend>
 				<h2>Come to the NASA Launch of the new satellite to mars!</h2>
 				<p style="text-align: center">
-					<img src="images/kids_to_mars-2.png" />
-					<img src="images/kids_to_mars.jpg" />
+					<img src="images/kids_to_mars-2.png" alt="kids to mars logo" />
+					<img src="images/kids_to_mars.jpg" alt="kids to mars" />
 				</p>
 				<p>
 					Would all you talented intelligent kids like to travel far beyond space to an adventurous journey to Mars? Come and join us at our 5th annual Kids Mission To Mars!! Come and discover everything you want to know about Mars. Free Lunch from 12:00pm -1:00pm! There will be prices and lots of fun activities for you! Hope to see you all eager little Astronauts!<br />
