@@ -32,7 +32,7 @@ include 'header.php';
 			
 			<fieldset>
 				<legend>Saturday, December 15, 2012</legend>
-				<h2>Come to the NASA Launch of the new satellite to mars!</h2>
+				<h2>Kids Mission To Mars</h2>
 				<p style="text-align: center">
 					<img src="images/kids_to_mars-2.png" alt="kids to mars logo" />
 					<img src="images/kids_to_mars.jpg" alt="kids to mars" />
