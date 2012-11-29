@@ -7,7 +7,45 @@ include 'header.php';
 		
 			<a name="TemplateInfo"></a>
 			<h1>Activities</h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ut quam et lectus accumsan ultrices quis vitae est. Curabitur ipsum neque, consequat eget dapibus in, vulputate ut risus. Sed non nisl eu magna tincidunt eleifend. Fusce tempus lacinia nibh, ut cursus tortor venenatis nec. Aliquam augue ante, malesuada quis molestie scelerisque, venenatis eget nisi. Curabitur vulputate arcu pharetra magna faucibus id iaculis sapien lobortis. Nunc mattis mollis velit, et aliquet dolor dictum id. Etiam et nulla lectus, sit amet consequat purus. Duis vel erat tellus. Aenean non tortor nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis pellentesque semper massa quis dapibus. Fusce consequat porttitor accumsan. Donec augue est, ultricies id laoreet vel, ultricies et libero.</p>
+			
+			<h2>Angry Birds Space</h2>
+			<p>
+				Okay okay. This has nothing to do with Mars but it's fun to play Angry Birds with gravational forces in it, yeah? You can get Angry Birds Space for Android, iOS, Mac, or PC at <a href="http://angrybirds.com/launch/" target="_blank">angrybirds.com/launch</a>
+			</p>
+			
+			<h2>Areology - The Study of Mars</h2>
+			<p>
+				Have you ever wondered about the history of mars? How about what the surface of Mars is like? Learn about the history and make up of Mars without burning a lot of jet fuel! <a href="activities/areology-the_study_of_mars.pdf" target="_blank">[Download]</a><br />
+				<em>Source: <a href="http://mars.jpl.nasa.gov/classroom/pdfs/MSIP-MarsActivities.pdf">Mars Exploration Program</a></em>
+			</p>
+			
+			<h2>Rover Races</h2>
+			<p>
+				Make your friends into a rover and guide them to the finish line. <a href="activities/rover_races.pdf" target="_blank">[Download]</a><br />
+				<em>Source: <a href="http://mars.jpl.nasa.gov/classroom/pdfs/MSIP-MarsActivities.pdf">Mars Exploration Program</a></em>
+			</p>
+			
+			<h3>More?</h3>
+			<p>
+				Here are some other websites that has Mars-related activities. If you want to share them here, <a href="contact.php">contact us</a>!
+				<ul>
+					<li>
+						Expedia<br />
+						<a href="http://www.expedia.com/daily/mars/mars-activities/" target="_blank">http://www.expedia.com/daily/mars/mars-activities/</a><br />&nbsp;
+					</li>
+					
+					<li>
+						Mars Exploration Program<br />
+						<a href="http://mars.jpl.nasa.gov/classroom/pdfs/MSIP-MarsActivities.pdf">http://mars.jpl.nasa.gov/classroom/pdfs/MSIP-MarsActivities.pdf</a>
+					</li>
+					
+				</ul>
+			</p>
+			
+			<p>
+				Some activities are delievered as PDF files. To open PDF files, you need Adobe Reader<br />
+				<a href="http://www.adobe.com/products/reader.html" target="_blank" /><img src="images/get_adobe_reader.gif" style="padding: 0px;" alt="" /></a>
+			</p>
 		</div>
 
 <?php
