@@ -25,6 +25,12 @@ include 'header.php';
 				<em>Source: <a href="http://mars.jpl.nasa.gov/classroom/pdfs/MSIP-MarsActivities.pdf">Mars Exploration Program</a></em>
 			</p>
 			
+			<h2>Curiosity for Person of the Year 2012</h2>
+			<p>
+				The Mars Curiosity rover has been nominated as <span style="color: red">TIME</span>'s person of the year 2012. Be sure to vote for Curiosity! Voting closes at 11:59pm on December 12, 2012<br />
+				<a href="http://www.time.com/time/specials/packages/article/0,28804,2128881_2128882_2129215,00.html">Vote The Mars Rover as TIME's person of the year 2012</a>
+			</p>
+			
 			<h3>More?</h3>
 			<p>
 				Here are some other websites that has Mars-related activities. If you want to share them here, <a href="contact.php">contact us</a>!
